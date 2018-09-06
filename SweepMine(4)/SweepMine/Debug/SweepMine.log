@@ -1,0 +1,5 @@
+﻿  SweepMine.cpp
+c:\users\administrator\documents\wechat files\xiao2tebie2\files\sweepmine(4)\sweepmine\sweepmine.cpp(184): warning C4101: “thisSudokuOpenCount”: 未引用的局部变量
+c:\users\administrator\documents\wechat files\xiao2tebie2\files\sweepmine(4)\sweepmine\sweepmine.cpp(522): warning C4101: “hWnd2”: 未引用的局部变量
+c:\users\administrator\documents\wechat files\xiao2tebie2\files\sweepmine(4)\sweepmine\sweepmine.cpp(344): warning C4715: “UI_MouseRightClick”: 不是所有的控件路径都返回值
+  SweepMine.vcxproj -> C:\Users\Administrator\Documents\WeChat Files\xiao2tebie2\Files\SweepMine(4)\Debug\SweepMine.exe
